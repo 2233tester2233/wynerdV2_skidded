@@ -1099,3 +1099,11 @@ task.spawn(function()
         message:Destroy()
     end)
 end)
+
+game.StarterGui:SetCore("SendNotification", {
+        Title = "Fun fact:";
+        Text = "OMG HUB SKID THIS SCRIPT WITHOUT ASK THE OWNER LOL PROOF HERE : https://scriptblox.com/script/Old!!Rock-Fruit-OMG-HUB-SKID-SCRIPT-BY-WYNERD-WOW-NO-CREDIT-13697";
+        Duration = 5;
+})
+-- discord
+setclipboard(tostring("https://discord.com/invite/9HSacrHPzy")) 
